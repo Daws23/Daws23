@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M. Mark Samuel</h1>
 <h3 align="center">Fresher in CS(Major)</h3>
 
-- 🌱 I’m currently learning **React.js and Figma**
+- 🌱 I’m currently learning **Python and Backend with Python**
 
 - 📫 How to reach me **marksamuel23.ms@gmail.com**
 
