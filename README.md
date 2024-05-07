@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M. Mark Samuel</h1>
 <h3 align="center">3rd Year in CS(Major)</h3>
 
-- 🌱 I’m currently learning **Data Analytics and ML**
+- 🌱 I’m currently learning **Data Analytics and Data engineering**
 
 - 📫 How to reach me **marksamuel23.ms@gmail.com**
 
