@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M. Mark Samuel</h1>
-<h3 align="center">3rd Year in CS(Major)</h3>
+<h3 align="center">Final Year in CS(Major)</h3>
 
 - 🌱 I’m currently learning **Data Analytics and Data engineering**
 
